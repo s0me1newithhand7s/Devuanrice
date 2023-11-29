@@ -21,9 +21,9 @@ Optianally, you can install Display Manager.
 git clone https://github.com/s0me1newithhand7s/Devuanrice
 cd devuanrice
 cp -r devuanrice ~/.config/
-cd ..
-rm -rf devuanrice
 ``` 
+
+**Do not forget to `rm -rf` after using!**
 
 ### Friendly reminder:
 I use terminus TTF, so be careful - change `font` in configs, if haven't one.
